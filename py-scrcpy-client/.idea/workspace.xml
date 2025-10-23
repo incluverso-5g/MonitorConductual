@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e13d17c5-4acf-4cb4-abf5-0fcd126f84b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/incluversomonitorpcapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Errors_Log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Errors_Log_Prev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ID_Smartphone_FFJ23_ce10193a948a440402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IncluversoDevelop - Copy.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IncluversoDevelop.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intrucciones incluverso - Documentos de Google.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PulseraIncluverso.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReopenApp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Run.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemplateTerapiaEscaleras.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateTerapiaEscaleras.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity_Log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity_Log_Prev - copia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity_Log_Prev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py-scrcpy-client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/TerapiaEscaleras.ini" beforeDir="false" afterPath="$PROJECT_DIR$/scrcpy_ui/TerapiaEscaleras.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/main - copia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrcpy_ui/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/main.ui" beforeDir="false" afterPath="$PROJECT_DIR$/scrcpy_ui/main.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/require.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/ui_mainwindow - copia (2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/ui_mainwindow - copia (3).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/ui_mainwindow - copia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/ui_mainwindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrcpy_ui/ui_mainwindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/ui_mainwindow.py.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrcpy_ui/ui_mainwindow_CArlos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/AdbWinApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/AdbWinUsbApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/SDL2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/adb.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/avcodec-60.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/avformat-60.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/avutil-58.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/libusb-1.0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/open_a_terminal_here.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/scrcpy-console.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/scrcpy-noconsole.vbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/scrcpy-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/scrcpy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrcpy2/swresample-4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/.idea/socketio-chat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img - Copy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img copia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_A.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_B.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_C.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_E.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_F.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_G.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_H.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_I.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/conf/config_img_J.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/playlists/miro360_20s_5x8_acr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/playlists/miro360_30s_5x8_acr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/playlists/miro360_training_acr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/img copia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/img2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Bus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Bus2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Dentro2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Dentro2Bajada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/DentroBajada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/DentroBlancas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/DentroSubida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/EscBus.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/EscDentro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/EscMec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Fuera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Fuera2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/FueraPatio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Fundacion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Grises.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/GrisesBajada.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Metro1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Metro2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Metro3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Metro4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Montan╠âa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Montaña.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Naranjas.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Nokia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Piscina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Playa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Politecnica.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Rompeolas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/Salon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/imgs/VirtualNaranja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socketio-img/static/main2.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dY3NX3RXkbAdIsLrZqlGw2eUUl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "TCP",
+    "last_opened_file_path": "C:/Users/Incluverso/Documents/MonitorConductual/py-scrcpy-client",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Incluverso\Documents\InterfazConductual_CopiaFunciona\py-scrcpy-client\scrcpy_ui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-scrcpy-client" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrcpy_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrcpy_ui/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e13d17c5-4acf-4cb4-abf5-0fcd126f84b8" name="Changes" comment="" />
+      <created>1710171144691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710171144691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

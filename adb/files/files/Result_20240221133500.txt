@@ -1,0 +1,2 @@
+UserID,3,NSession,3,ManoE4,mano_izquierda
+1708518900999,STATE,Idle,EVENT,none,LOOK_AT,0,0,0,POSITION,0,1.9,0

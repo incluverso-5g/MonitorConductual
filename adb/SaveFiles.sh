@@ -1,0 +1,1 @@
+adb pull /sdcard/Android/data/com.GTI.BehavioralTherapy_stairs_phobia_true/Backup/Result_20240410152422.txt C:/Users/Incluverso/Documents/LogsSesiones

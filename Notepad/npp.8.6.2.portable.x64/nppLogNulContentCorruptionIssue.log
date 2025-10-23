@@ -1,0 +1,53 @@
+2024-02-07 12:32:36  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-07 12:32:36  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-07 12:32:36  C:\Users\afernandeza\Documents\StartingApp\Notepad\npp.8.6.2.portable.x64\config.xml is opened.
+2024-02-07 12:32:36  C:\Users\afernandeza\Documents\StartingApp\Notepad\npp.8.6.2.portable.x64\config.xml  8067/8067 bytes are written.
+2024-02-07 12:32:36  C:\Users\afernandeza\Documents\StartingApp\Notepad\npp.8.6.2.portable.x64\config.xml is closed.
+2024-02-07 12:32:36  C:\Users\afernandeza\Documents\StartingApp\Notepad\npp.8.6.2.portable.x64\session.xml is opened.
+2024-02-07 12:32:36  C:\Users\afernandeza\Documents\StartingApp\Notepad\npp.8.6.2.portable.x64\session.xml  1429/1429 bytes are written.
+2024-02-07 12:32:36  C:\Users\afernandeza\Documents\StartingApp\Notepad\npp.8.6.2.portable.x64\session.xml is closed.
+2024-02-07 12:32:36  WM_DESTROY (isEndSessionStarted == true)
+2024-02-14 11:30:28  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-14 11:30:28  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-14 11:30:28  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is opened.
+2024-02-14 11:30:28  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml  9645/9645 bytes are written.
+2024-02-14 11:30:28  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is closed.
+2024-02-14 11:30:28  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is opened.
+2024-02-14 11:30:28  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml  2138/2138 bytes are written.
+2024-02-14 11:30:28  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is closed.
+2024-02-15 12:23:04  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-15 12:23:04  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-15 12:23:04  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is opened.
+2024-02-15 12:23:04  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml  9654/9654 bytes are written.
+2024-02-15 12:23:04  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is closed.
+2024-02-15 12:23:04  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is opened.
+2024-02-15 12:23:04  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml  3382/3382 bytes are written.
+2024-02-15 12:23:04  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is closed.
+2024-02-15 12:23:04  WM_DESTROY (isEndSessionStarted == true)
+2024-02-26 11:29:43  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-26 11:29:43  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-26 11:29:44  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is opened.
+2024-02-26 11:29:44  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml  9741/9741 bytes are written.
+2024-02-26 11:29:44  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is closed.
+2024-02-26 11:29:44  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is opened.
+2024-02-26 11:29:44  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml  7894/7894 bytes are written.
+2024-02-26 11:29:44  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is closed.
+2024-02-26 11:29:44  WM_DESTROY (isEndSessionStarted == true)
+2024-02-26 17:51:46  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-26 17:51:46  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-26 17:51:47  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is opened.
+2024-02-26 17:51:47  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml  9831/9831 bytes are written.
+2024-02-26 17:51:47  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is closed.
+2024-02-26 17:51:47  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is opened.
+2024-02-26 17:51:47  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml  5386/5386 bytes are written.
+2024-02-26 17:51:47  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is closed.
+2024-02-26 17:51:47  WM_DESTROY (isEndSessionStarted == true)
+2024-02-27 11:33:20  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-27 11:33:20  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-27 11:33:20  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is opened.
+2024-02-27 11:33:20  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml  9836/9836 bytes are written.
+2024-02-27 11:33:20  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\config.xml is closed.
+2024-02-27 11:33:20  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is opened.
+2024-02-27 11:33:20  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml  4731/4731 bytes are written.
+2024-02-27 11:33:20  C:\Users\afernandeza\Documents\StartingApp\incluversomonitorpcapp\Notepad\npp.8.6.2.portable.x64\session.xml is closed.
+2024-02-27 11:33:20  WM_DESTROY (isEndSessionStarted == true)

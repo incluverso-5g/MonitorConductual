@@ -1,0 +1,2 @@
+Tuesday, February 13, 2024,UserID,ds02,NSession,
+1707825008836,STATE,Idle,EVENT,none,LOOK_AT,0,0,0,POSITION,0,1.9,0
