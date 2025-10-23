@@ -6,8 +6,6 @@ from adbutils import adb#, adb2 #adb2 is the HMD
 from PySide6.QtGui import QImage, QKeyEvent, QMouseEvent, QPixmap, Qt
 from PySide6.QtCore import QTimer, Qt, QTime
 from PySide6.QtWidgets import QApplication, QMainWindow, QMessageBox
-# socketio
-#import scrcpy
 import cv2
 import os
 import time
@@ -125,17 +123,6 @@ class MainWindow(QMainWindow):
         if len(self.devices) == 1:
             self.device = adb.device(serial=self.devices[0])
             self.alive = True
-            '''
-            # Setup client
-            self.client = scrcpy.Client(
-                device=self.device,
-                bitrate=500000,
-                encoder_name=encoder_name,
-                max_fps=10,
-            )
-            self.client.add_listener(scrcpy.EVENT_INIT, self.on_init)
-            self.client.add_listener(scrcpy.EVENT_FRAME, self.on_frame)
-            '''
         else:
             self.device = None
             self.cap = None
