@@ -22,7 +22,7 @@ Interfaz para el control y monitoreo de sesiones de terapia conductual.
 1. Clonar o descargar este repositorio:
 
 ```shell
-git clone <URL_DEL_REPOSITORIO>
+git clone https://git.gti.ssr.upm.es/mgm/monitorconductual
 cd py-scrcpy-client
 ```
 
@@ -40,9 +40,10 @@ pip install -r requirements.txt
 ../TemplateTerapiaEscaleras.ini
 
 Hay que incluir: 
-- hmd_ip: Dirección IP de las gafas XR (puedes obtenerla con: *adb shell ip route*)
-- phone_ip: Dirección IP del ordenador
-- LogsDir: Path donde se quieran guardar los datos de las sesiones
+- [TCP] hmd_ip: Dirección IP de las gafas XR (puedes obtenerla con: *adb shell ip route*)
+- [Biosensors] phone_ip: Dirección IP del móvil al que están conectados los biosensores
+- [Offloading] ip: Dirección IP del ordenador
+- [Paths] LogsDir: Path donde se quieran guardar los datos de las sesiones
 
 ---
 
@@ -62,6 +63,19 @@ Open_app.sh
 cd scrcpy_ui #Si no entras dentro de este directorio no va a funcionar la interfaz
 python main.py
 ```
+---
+
+## Control interfaz
+
+1. Incluir ID del paciente y Nº de sesión y pulsar botón *EMPEZAR APLICACIÓN*
+2. Una vez inicializada la aplicación se puede controlar
+    - Lanzamiento audio
+    - Lanzamiento vídeo 360º
+    - Lanzamiento de escenas virtuales
+    - Control de parámetros dentro de las escenas virtuales (El control es una vez que se haya lanzado)
+    - Lanzamiento de escena de votación
+3. Cuando la sesión esté finalizada, pulsar botón *PARAR APLICACIÓN*
+
 ---
 
 ## Vista HMD
@@ -86,7 +100,7 @@ adb connect ipHMD:5555 #ipHMD es del estilo: xxx.xx.xx.xx
 
 ### Vista en la interfaz
 
-En la aplicación pulsar el botón **Vista HMD**
+En la aplicación pulsar el botón **Ver vista gafas (HMD)**
 
 ---
 
@@ -108,5 +122,5 @@ En la aplicación pulsar el botón **Vista HMD**
 
 ### Vista en la interfaz
 
-En la aplicación pulsar el botón **Vista biosensores**
+En la aplicación pulsar el botón **Ver vista biosensores (móvil)**
 

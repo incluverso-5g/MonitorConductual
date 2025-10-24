@@ -513,7 +513,8 @@ class MainWindow(QMainWindow):
         self.setWindowTitle(f"Serial: {self.client.device_name}")
 
     def scrcpy_mirror(self):
-        scrcpy_path = r"C:\Users\Incluverso\Documents\InterfazConductual\py-scrcpy-client\scrcpy-funciona\scrcpy.exe"
+        #scrcpy_path = r"C:\Users\Incluverso\Documents\MonitorConductual\py-scrcpy-client\scrcpy-funciona\scrcpy.exe"
+        scrcpy_path = r"..\scrcpy-funciona\scrcpy.exe"
 
         # Argumentos que hacen que funcione la vista de las gafas - Si deja de funcionar, revisar foros
         args = [
