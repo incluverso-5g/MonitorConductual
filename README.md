@@ -108,7 +108,7 @@ En la aplicación pulsar el botón **Ver vista gafas (HMD)**
 
 *En nuestro caso Empatica Embrace Plus*
 
-### Inicializar bio-sensores
+### Inicializar biosensores
 
 1. Instalar aplicación Empatica Care en el móvil
 2. Seguir las instrucciones para emparejar la pulsera de este [link](https://support.empatica.com/hc/en-us/articles/13681477919261-Pairing-your-Empatica-Wearable)
