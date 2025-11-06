@@ -1,4 +1,3 @@
-como lo ves como un readme?
 # Interfaz de Control - Terapia Conductual
 
 Interfaz para el control y monitoreo de sesiones de terapia conductual.
@@ -57,7 +56,7 @@ Dos posibles formas
 Open_app.sh
 ```
 
-1. Con línea de comandos
+2. Con línea de comandos
 
 ```shell
 cd scrcpy_ui #Si no entras dentro de este directorio no va a funcionar la interfaz
