@@ -172,6 +172,9 @@ class MainWindow(QMainWindow):
 
         self.ui.RestartTimer.clicked.connect(self.restartTimer)
 
+        #IP GAFAS
+        self.ui.ActualizarIP.clicked.connect(lambda: self.get_device_ip(self.devices[0]))
+
         #BATERIA GAFAS
         self.timer2 = QTimer()
         self.timer2.start(1000)
@@ -282,6 +285,22 @@ class MainWindow(QMainWindow):
 
         if len(self.devices) == 0:
             QMessageBox.information(self, "Meta Quest 2 no encontradas", "Cierra el terminal y repite los pasos de conexión de las gafas al ordenador.")
+
+
+    def get_device_ip(self, serial):
+        template_path = r'../../TemplateTerapiaEscaleras.ini'
+        try:
+            device = adb.device(serial)
+            output = device.shell("ip route")
+            match = re.search(r"(\d+\.\d+\.\d+\.\d+)$", output)
+            print("Device IP is: " + match.group(1))
+            self.load_cfg()
+            self.cfg.set('TCP', 'hmd_ip', match.group(1))
+            with open(template_path, 'w') as configfile:
+                self.cfg.write(configfile)
+            return match.group(1) if match else None
+        except Exception as e:
+            return None
 
     def load_cfg(self):
         # Then optionally override with TemplateTerapiaEscaleras.ini
