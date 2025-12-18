@@ -21,7 +21,7 @@ Interfaz para el control y monitoreo de sesiones de terapia conductual.
 1. Clonar o descargar este repositorio:
 
 ```shell
-git clone https://git.gti.ssr.upm.es/mgm/monitorconductual
+git clone http://192.168.23.15:23232/monitorconductual.git
 cd py-scrcpy-client
 ```
 
