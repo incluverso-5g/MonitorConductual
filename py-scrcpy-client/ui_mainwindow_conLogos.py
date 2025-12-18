@@ -46,7 +46,7 @@ class Ui_MainWindow(object):
         self.scrollArea.setWidgetResizable(True)
         self.scrollAreaWidgetContents_10 = QWidget()
         self.scrollAreaWidgetContents_10.setObjectName(u"scrollAreaWidgetContents_10")
-        self.scrollAreaWidgetContents_10.setGeometry(QRect(0, 0, 5000, 5000))
+        self.scrollAreaWidgetContents_10.setGeometry(QRect(-1081, 0, 5000, 5000))
         self.scrollAreaWidgetContents_10.setMinimumSize(QSize(5000, 5000))
         self.layoutWidget = QWidget(self.scrollAreaWidgetContents_10)
         self.layoutWidget.setObjectName(u"layoutWidget")
@@ -613,6 +613,31 @@ class Ui_MainWindow(object):
 
         self.gridLayout_.addWidget(self.AudioEscalerasMecanicasBajada_, 25, 1, 1, 1)
 
+        self.groupBox_89 = QGroupBox(self.layoutWidget)
+        self.groupBox_89.setObjectName(u"groupBox_89")
+        self.groupBox_89.setMinimumSize(QSize(265, 95))
+        self.label_55 = QLabel(self.groupBox_89)
+        self.label_55.setObjectName(u"label_55")
+        self.label_55.setGeometry(QRect(30, 20, 60, 50))
+        self.label_55.setMinimumSize(QSize(60, 50))
+        self.label_55.setMaximumSize(QSize(60, 50))
+        self.label_55.setPixmap(QPixmap(u"__pycache__/imgs3/Politecnica.png"))
+        self.label_55.setScaledContents(True)
+        self.label_58 = QLabel(self.groupBox_89)
+        self.label_58.setObjectName(u"label_58")
+        self.label_58.setGeometry(QRect(150, 30, 60, 40))
+        self.label_58.setMinimumSize(QSize(60, 40))
+        self.label_58.setPixmap(QPixmap(u"__pycache__/imgs3/Fundacion.png"))
+        self.label_58.setScaledContents(True)
+        self.label_62 = QLabel(self.groupBox_89)
+        self.label_62.setObjectName(u"label_62")
+        self.label_62.setGeometry(QRect(90, 30, 60, 40))
+        self.label_62.setMinimumSize(QSize(60, 40))
+        self.label_62.setPixmap(QPixmap(u"__pycache__/imgs3/Nokia.png"))
+        self.label_62.setScaledContents(True)
+
+        self.gridLayout_.addWidget(self.groupBox_89, 0, 0, 1, 1)
+
         self.EscenarioCapturaEscaleras09 = QPushButton(self.layoutWidget)
         self.EscenarioCapturaEscaleras09.setObjectName(u"EscenarioCapturaEscaleras09")
         self.EscenarioCapturaEscaleras09.setCursor(QCursor(Qt.PointingHandCursor))
@@ -889,12 +914,6 @@ class Ui_MainWindow(object):
 
         self.gridLayout_.addWidget(self.ActualizarIP, 1, 3, 1, 1)
 
-        self.groupBox_89 = QGroupBox(self.layoutWidget)
-        self.groupBox_89.setObjectName(u"groupBox_89")
-        self.groupBox_89.setMinimumSize(QSize(265, 95))
-
-        self.gridLayout_.addWidget(self.groupBox_89, 0, 0, 1, 1)
-
 
         self.horizontalLayout_1.addLayout(self.gridLayout_)
 
@@ -1011,6 +1030,10 @@ class Ui_MainWindow(object):
 " bajada", None))
         self.AbrirPuertasBusSub_.setText(QCoreApplication.translate("MainWindow", u"Abrir puertas", None))
         self.AudioEscalerasMecanicasBajada_.setText(QCoreApplication.translate("MainWindow", u"Audio", None))
+        self.groupBox_89.setTitle("")
+        self.label_55.setText("")
+        self.label_58.setText("")
+        self.label_62.setText("")
         self.EscenarioCapturaEscaleras09.setText("")
         self.StopMecBaj_.setText(QCoreApplication.translate("MainWindow", u"Parar", None))
         self.EscalerasAutobusBaj_.setText(QCoreApplication.translate("MainWindow", u"Autob\u00fas \n"
@@ -1050,6 +1073,5 @@ class Ui_MainWindow(object):
         self.EscenarioCapturaEscaleras04.setText("")
         self.groupBox_2.setTitle(QCoreApplication.translate("MainWindow", u"Dispositivo", None))
         self.ActualizarIP.setText(QCoreApplication.translate("MainWindow", u"Actualizar IP dispositivo", None))
-        self.groupBox_89.setTitle("")
     # retranslateUi
 

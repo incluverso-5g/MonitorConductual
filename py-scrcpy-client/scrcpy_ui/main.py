@@ -1,15 +1,12 @@
 from argparse import ArgumentParser
 from typing import Optional
 import threading
-import requests
 from adbutils import adb#, adb2 #adb2 is the HMD
-from PySide6.QtGui import QImage, QKeyEvent, QMouseEvent, QPixmap, Qt
+from PySide6.QtGui import QImage, QPixmap, Qt
 from PySide6.QtCore import QTimer, Qt, QTime
 from PySide6.QtWidgets import QApplication, QMainWindow, QMessageBox
 import cv2
-import os
 import time
-import json
 import faulthandler
 import subprocess
 from ui_mainwindow import Ui_MainWindow
@@ -17,14 +14,11 @@ from functools import partial
 import socket
 import sys
 import os
-import av
-import traceback
 
 # Screen Recording Imports
 import configparser
 from pathlib import Path
 import re
-from datetime import datetime
 
 if not QApplication.instance():
     app = QApplication([])

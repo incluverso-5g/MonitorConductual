@@ -25,7 +25,13 @@ git clone https://git.gti.ssr.upm.es/mgm/monitorconductual
 cd py-scrcpy-client
 ```
 
-2. Instalar los requirements
+2. Crear un virtual environment de python y activarlo
+```shell
+python -m venv venv
+venv\Scripts\activate.bat
+```
+
+3. Instalar los requirements
 ```shell
 pip install -r requirements.txt
 ```
